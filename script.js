@@ -77,9 +77,9 @@ function AddItem(){
 
 
 
-    inputt.value="";
-    desc.value="";
-    cate.value="";
+    // inputt.value="";
+    // desc.value="";
+    // cate.value="";
 };
 
 
