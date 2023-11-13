@@ -1,0 +1,34 @@
+
+*{
+    margin:0;
+    padding: 0;
+    background-color: #FBCEB1;
+}
+
+.parent{
+    margin-top: 50px;
+    margin:50px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+}
+
+#todo,#des,#cat{
+    border: none;
+    padding: 7px;
+    background-color: white;
+    /* width: 300px; */
+}
+
+.btta{
+    border: none;
+    padding: 7px;
+    background-color: rgb(28, 28, 211);
+    font-size: 16px;
+    color: white;
+    border-radius:0 5px 5px 0;
+}
+
+.list{
+    margin-left: 10%;
+}
